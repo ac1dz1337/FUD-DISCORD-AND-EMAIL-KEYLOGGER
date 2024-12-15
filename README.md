@@ -1,4 +1,5 @@
-![alt text]([http://url/to/img.png](https://cdn.discordapp.com/attachments/1050838382873432106/1317820107983945738/image.png?ex=6760131d&is=675ec19d&hm=5a7125de7db230e9daf2119f90058ed9cd6c7ef8765f6c46bdd5206143a4b0a0&))
+![Kiku](image.png)
+
 
 
 https://websec.nl/scanner/result/e0dacc65-09e7-4933-a16e-7b77e8e0bda0
