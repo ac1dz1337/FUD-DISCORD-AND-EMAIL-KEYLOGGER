@@ -1,4 +1,4 @@
-Mail & Discord (?) & Direct File Upload 
+Mail & Discord (?) & Direct File Upload  // DISCORD (only for private projects) : .yatzu
 
 
 ## How It Works
